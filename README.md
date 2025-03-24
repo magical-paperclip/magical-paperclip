@@ -21,15 +21,6 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=magical-paperclip&theme=dracula)
 
-## 🗂️ highlight projects
-
-<a href="https://github.com/magical-paperclip/tic-tac-toe-ai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=magical-paperclip&repo=project-xyz&theme=radical" />
-</a>
-
-<a href="https://github.com/magical-paperclip/another-cool-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=magical-paperclip&repo=another-cool-project&theme=radical" />
-</a>
 
 ## 🤝 connect with me
 
