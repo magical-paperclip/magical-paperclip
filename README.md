@@ -1,6 +1,6 @@
 ## hi there 👋
 
-<!--# wsg im magical-paperclip 👋
+# wsg im magical-paperclip 👋
 
 ## 🚀 wanna be tech bro
 
