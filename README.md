@@ -23,7 +23,7 @@
 
 ## 🗂️ highlight projects
 
-<a href="https://github.com/magical-paperclip/project-xyz">
+<a href="https://github.com/magical-paperclip/tic-tac-toe-ai">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=magical-paperclip&repo=project-xyz&theme=radical" />
 </a>
 
