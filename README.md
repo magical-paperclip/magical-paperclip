@@ -1,16 +1,38 @@
-## Hi there 👋
+## hi there 👋
 
-<!--
-**magical-paperclip/magical-paperclip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--# wsg im magical-paperclip 👋
 
-Here are some ideas to get you started:
+## 🚀 wanna be tech bro
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Views](https://komarev.com/ghpvc/?username=magical-paperclip&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/magical-paperclip?label=Followers)
+![Stars](https://img.shields.io/github/stars/magical-paperclip?label=Stars)
+
+## 📊 github stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=magical-paperclip&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=magical-paperclip&layout=compact&theme=radical)
+
+## 🏆 github trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=magical-paperclip&theme=radical)
+
+## 📈 github activity graph
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=magical-paperclip&theme=dracula)
+
+## 🗂️ highlight projects
+
+<a href="https://github.com/magical-paperclip/project-xyz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=magical-paperclip&repo=project-xyz&theme=radical" />
+</a>
+
+<a href="https://github.com/magical-paperclip/another-cool-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=magical-paperclip&repo=another-cool-project&theme=radical" />
+</a>
+
+## 🤝 connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/prakruti-sunil)
+
+##⚡ see ya!
