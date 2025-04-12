@@ -2,7 +2,7 @@
 
 # wsg im magical-paperclip 👋
 
-## 🚀 wanna be tech bro
+## 🚀 i make stuff
 
 ![Profile Views](https://komarev.com/ghpvc/?username=magical-paperclip&color=blueviolet)
 ![Followers](https://img.shields.io/github/followers/magical-paperclip?label=Followers)
