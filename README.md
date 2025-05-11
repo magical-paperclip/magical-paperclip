@@ -24,4 +24,4 @@
 
 ## 🤝 connect with me
 
-##⚡ see ya!
+⚡ see ya!
