@@ -1,6 +1,6 @@
-## hi there 👋
+## hii 👋
 
-# wsg im magical-paperclip 👋
+#im magical-paperclip 📎🎩
 
 ## 🚀 i make stuff
 
@@ -25,8 +25,5 @@
 
 
 ###
-
-
-## 🤝 connect with me
 
 ⚡ see ya!
