@@ -21,9 +21,4 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=magical-paperclip&theme=dracula)
 
-## 🎵 spotify activity
-
-
-###
-
-⚡ see ya!
+###⚡ see ya!
