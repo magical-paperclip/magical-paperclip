@@ -2,8 +2,6 @@
 
 ## im magical-paperclip 📎🎩
 
-## 🚀 i make stuff
-
 ![Profile Views](https://komarev.com/ghpvc/?username=magical-paperclip&color=blueviolet)
 ![Followers](https://img.shields.io/github/followers/magical-paperclip?label=Followers)
 ![Stars](https://img.shields.io/github/stars/magical-paperclip?label=Stars)
