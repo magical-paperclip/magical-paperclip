@@ -17,8 +17,5 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=magical-paperclip&theme=radical)
 
-## 📈 github activity graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=magical-paperclip&theme=dracula)
 
 ## see you!
