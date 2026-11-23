@@ -1,17 +1,17 @@
 # hi, i'm prakruti!
 
-I'm a high school student who likes turning ideas into playful, interactive projects—especially things with 3D, physics, and the web.
+I'm a high school student who likes building useful, playful projects—from 3D tools to small hardware experiments.
 
 ### a few things i've made
 
-- **[sics-ground](https://github.com/magical-paperclip/sics-ground)** — a Matter.js playground for making shapes collide, bounce, and explode. [try it](https://sics-ground.vercel.app)
-- **[clayable](https://clayable.studio)** — a Three.js clay sculptor for shaping and exporting 3D forms; also featured in the [Tinovation showcase](https://www.tinovation.org/showcase#clayable).
-- **[shapey](https://github.com/magical-paperclip/3d-website)** — a Three.js experiment in playful shape transformations. [see it live](https://shapey.vercel.app)
-- **[emplode](https://github.com/magical-paperclip/emplode)** — a Matter.js-powered space to explore feelings through physics. [try it](https://emplode.vercel.app)
+- **[clayable](https://clayable.studio)** — a Three.js sculpting app for shaping and exporting 3D forms, featured in the [Tinovation showcase](https://www.tinovation.org/showcase#clayable).
+- **[Cupertino High School Lost & Found](https://websites-nine-mu.vercel.app)** — a school lost-and-found prototype with photo reports, searchable items, claims, and a 3D campus map.
+- **[Highway Hackpad](https://github.com/magical-paperclip/highway-hackapad)** — a four-key RP2040 macro pad with custom shortcut firmware and PCB/case files.
+- **[ate-bit](https://github.com/magical-paperclip/ate-bit)** — a terminal-style arcade with Snake, Tetris, Pong, and Breakout. [play it](https://ate-bit.vercel.app)
 
 ### what i'm learning
 
-I'm exploring TypeScript, browser-based physics, and interactive 3D—and learning by building things people can actually play with.
+I'm learning more about JavaScript/TypeScript, interactive 3D, and how software can connect to hardware.
 
 ### looking ahead
 
